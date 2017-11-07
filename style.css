@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -73,6 +73,11 @@ div.jumbotron {
   font-size:30px;
   margin-bottom:10px
 }
+
+.questions p {
+  margin-top:30px 
+}
+
 
 footer{
   border-top: 1px solid #ccc;
