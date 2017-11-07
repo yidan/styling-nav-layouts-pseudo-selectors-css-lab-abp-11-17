@@ -31,9 +31,18 @@ nav a {
   font-size: 18px;
 }
 
+nav a:hover{
+  text-decoration:underline;
+  color:#0056b3;
+}
+
 #header a{
   text-decoration: none;
   color: #868e96;
+}
+
+#icebreakers a:hover{
+  text-decoration: underline;
 }
 
 main{
@@ -55,6 +64,14 @@ div.jumbotron {
   font-size: 20px;
   padding: 0 40px 0 40px;
   line-height: 40px;
+}
+.questions{
+  margin:0 20px 0 20px;
+  
+}
+.questions h4{
+  font-size:30px;
+  margin-bottom:10px
 }
 
 footer{
